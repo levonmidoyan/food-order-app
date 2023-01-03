@@ -78,7 +78,7 @@ const CartProvider = (props) => {
         addItem: addItemToCartHandler,
         removeItem: removeItemFromCartHandler,
         clearCart: clearCartHandler,
-    }
+    };
 
     return (
         <CartContext.Provider value={cartContext}>
