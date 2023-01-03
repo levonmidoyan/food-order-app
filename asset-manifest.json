@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/food-order-app/static/css/main.ee540d6f.css",
-    "main.js": "/food-order-app/static/js/main.9e9ec423.js",
+    "main.css": "/food-order-app/static/css/main.c16947b0.css",
+    "main.js": "/food-order-app/static/js/main.0aed8c21.js",
     "static/media/meals.jpg": "/food-order-app/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/food-order-app/index.html",
-    "main.ee540d6f.css.map": "/food-order-app/static/css/main.ee540d6f.css.map",
-    "main.9e9ec423.js.map": "/food-order-app/static/js/main.9e9ec423.js.map"
+    "main.c16947b0.css.map": "/food-order-app/static/css/main.c16947b0.css.map",
+    "main.0aed8c21.js.map": "/food-order-app/static/js/main.0aed8c21.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee540d6f.css",
-    "static/js/main.9e9ec423.js"
+    "static/css/main.c16947b0.css",
+    "static/js/main.0aed8c21.js"
   ]
 }
